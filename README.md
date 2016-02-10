@@ -4,6 +4,7 @@
 
 * Christine Harlow (University of Tennessee, Knoxville)
 * Jennifer Eustis (University of Connecticut Libraries, Storrs)
+* Amanda Lehman (University of Wyoming, Laramie)
 
 ##Terms of reference
 
